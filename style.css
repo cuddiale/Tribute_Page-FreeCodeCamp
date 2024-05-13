@@ -1,6 +1,18 @@
 img {
-  max-width: 100%;
+  max-width: 80%;
   display: block;
-  height: auto;
-  margin: 0 auto;
+  margin: auto;
+  width: 50%;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+  background-color: bisque;
+}
+
+body {
+  font-family: serif;
+  background-color: antiquewhite;
 }
